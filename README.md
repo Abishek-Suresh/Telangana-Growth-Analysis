@@ -1,5 +1,9 @@
 # Telangana Growth Analysis
 
+
+![telangana ](https://github.com/Abishek-Suresh/Telangana-Growth-Analysis/assets/90471014/97a00f13-7f15-4380-a96b-ec5ed87b75e4)
+
+
  ### I had the privilege to join the Telangana Growth Analysis Resume Project Challenge 7. Telangana's government partnered with the codebasics team to extract valuable insights from their official open data portal for a brighter future.
 
  ### Peter Pandey is an aspiring data analyst looking for a project with real-time data to add to his portfolio. He wanted to analyze Telangana’s growth among different sectors quantitatively and provide valuable Insights to the Telangana government that would help them make data-informed decisions that would further support the state's growth.
