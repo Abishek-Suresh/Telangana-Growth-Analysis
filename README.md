@@ -3,6 +3,11 @@
 
 ![telangana ](https://github.com/Abishek-Suresh/Telangana-Growth-Analysis/assets/90471014/97a00f13-7f15-4380-a96b-ec5ed87b75e4)
 
+<br>
+
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNDYzZWY3NTItY2FhYy00MDYwLWFlMzQtMDU0YWRlOThkNjM2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+<br>
 
  ### I had the privilege to join the Telangana Growth Analysis Resume Project Challenge 7. Telangana's government partnered with the codebasics team to extract valuable insights from their official open data portal for a brighter future.
 
